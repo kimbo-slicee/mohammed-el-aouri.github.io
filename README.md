@@ -3,10 +3,9 @@
 #### Technical Skills: HTML,CSS,JAVASCRIPT,RAECTJS 
 
 ## Education
-- DTS, digital development | The University of Texas at Dallas (_May2023_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
-
+- DTS, IT Development | The Institute Specializing in IT Development (_May2023_)								       		
+- Baccalaureate, Physics – Chemistry	| Abdessalam Amer High School( (_December 2019_)
+  
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
